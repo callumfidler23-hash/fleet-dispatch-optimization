@@ -1,0 +1,5 @@
+pulp>=2.8
+numpy>=2.0
+
+[dev]
+pytest>=8.0
